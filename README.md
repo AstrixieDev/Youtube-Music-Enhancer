@@ -3,4 +3,4 @@
 <p>^ Up your'e YT Music Expirience</p>
 <p><h4>V Download V</h4></p>
 <p><img width="20px" height="20px" alt="image" src="https://www.svgrepo.com/show/354957/document-zip.svg" /> <a href="#">YoutubeMusicEnhancer.zip</a> - For Chrome</p>
-<p style="text-aling: center;"><a>Made by</a><a href="https://github.com/AstrixieDev">Astrixie</a></p>
+<p><a>Made by </a><a href="https://github.com/AstrixieDev">Astrixie</a><a> - </a><a href="https://github.com/AstrixieDev/Youtube-Music-Enhancer">YTME</a></p>
