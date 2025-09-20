@@ -2,7 +2,10 @@
 <img width="916" height="418" alt="image" src="https://github.com/user-attachments/assets/6bb93420-6638-4f64-982a-7ac83b28b78c" />
 <p>^ Up your'e YT Music Expirience</p>
 <p><h4>Downloads</h4></p>
-<p><img width="20px" height="20px" alt="image" src="https://www.svgrepo.com/show/354957/document-zip.svg" /> <a href="#">YoutubeMusicEnhancer.zip</a> - For Chrome</p>
+|        Name          |  Type  |  Size  |
+| -------------------- | ------ | ------ |
+| <a href="#">YoutubeMusicEnhancer.zip</a> | <img width="20px" height="20px" alt="image" src="https://www.svgrepo.com/show/354957/document-zip.svg" /> | 28Mb |
+<p> z - For Chrome</p>
 <p><h4>Instructions</h4></p>
 <p> 1. Go to chrome://extensions/</p>
 <p><img width="224" height="41" alt="image" src="https://github.com/user-attachments/assets/a05d763d-5e46-47f0-af9c-3ed34cdc42a0" /></p>
