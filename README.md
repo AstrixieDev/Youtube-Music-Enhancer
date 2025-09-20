@@ -35,3 +35,4 @@
 <p><img width="94" height="131" alt="image" src="https://github.com/user-attachments/assets/570752a8-abd5-41e9-a501-37bec78d993a" /></p>
 <p><a>Made by </a><a href="https://github.com/AstrixieDev">Astrixie</a><a> - </a><a href="https://github.com/AstrixieDev/Youtube-Music-Enhancer">YTME</a></p>
 <p><img width="100" height="15" src="https://github.com/user-attachments/assets/9bbd8cf2-b0c3-43a0-a0ea-e6ad99ee98d1" /></p>
+<p style="text-align: center;">A piece of centered text</p>
