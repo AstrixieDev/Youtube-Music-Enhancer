@@ -34,3 +34,5 @@
 <p> 4. Select the extencion</p>
 <p><img width="94" height="131" alt="image" src="https://github.com/user-attachments/assets/570752a8-abd5-41e9-a501-37bec78d993a" /></p>
 <p><a>Made by </a><a href="https://github.com/AstrixieDev">Astrixie</a><a> - </a><a href="https://github.com/AstrixieDev/Youtube-Music-Enhancer">YTME</a></p>
+<p><img width="100" height="15" alt="image" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAAPCAMAAAAlD5r/AAAAdVBMVEUAAACKior8/Pzi4uLT09P5+fnf39/Q0ND39/cAAADc3NzNzc319fX09PTZ2dnKysry8vLX19fHx8fGxsbw8PDv7+/Dw8Pt7e3AwMDr6+vq6uq8vLzo6Oi5ubnl5eW1tbXj4+OxsbHg4OC/v7+tra3d3d2pqalibQwFAAAAJ3RSTlMA//////////////////////////////////////////////////9ZhChSAAAACXBIWXMAAA9hAAAPYQGoP6dpAAABEElEQVQ4jbWU6VKDQBCEwURDGzQEkCMc8Yi+/yPaM7sDwbKslap87Ez3zFLVyR+iKL45URTfrWSzDSWO4vuVPOxCYUiSgCR/gYV4HvehMCRNkbr6hScFC/E8H0JhSJYh04JX58XoCt6bs7eOeQ4l12MuvxZSFAVDylI8ux2W6yYlXhRowbttVQGVoDI11lIqhtQ1agH+uMfmqSZri13TADxSTWMNtnB3MjUMaVu0Atw56SOcaOaarC32XQdoiczNL2bpGNL36AU4AzO9zT9GWxyGwf1UyjDMTRd+D90yZBwxKlCFjnLtL5y9cl7ycygMeQ1hswSs6i0Uhrz/F/4RkY9LKAz5XEn3FYp8IW//Ff4GJRFde7gjMlEAAAAASUVORK5CYII=" />
+</p>
