@@ -13,7 +13,16 @@
     <td><a href="#">YoutubeMusicEnhancer.zip</a></td>
     <td><img width="20px" height="20px" alt="image" src="https://www.svgrepo.com/show/354957/document-zip.svg" /></td>
     <td>30MB</td>
-    <td><img width="20px" height="20px" alt="image" src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-Chromium-icon.png" /><img width="20px" height="20px" alt="image" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/256/Google-Chrome-icon.png" /></td> </tr>
+    <td><img width="20px" height="20px" alt="image" src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-Chromium-icon.png" /><img width="20px" height="20px" alt="image" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/256/Google-Chrome-icon.png" />
+    </td> 
+  </tr>
+  <tr>
+    <td><a href="#">YoutubeMusicEnhancer.zip</a></td>
+    <td><img width="20px" height="20px" alt="image" src="https://www.svgrepo.com/show/354957/document-zip.svg" /></td>
+    <td>30MB</td>
+    <td><img width="20px" height="20px" alt="image" src="https://icons.iconarchive.com/icons/carlosjj/mozilla/256/Firefox-icon.png" />
+    </td> 
+  </tr>
 </table>
 <p><h4>Instructions</h4></p>
 <p> 1. Go to chrome://extensions/</p>
