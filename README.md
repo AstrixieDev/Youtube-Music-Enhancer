@@ -17,7 +17,7 @@
     </td> 
   </tr>
   <tr>
-    <td><a>*Not avalible yet..*</a></td>
+    <td><a>**Not avalible yet..**</a></td>
     <td><img width="20px" height="20px" alt="image" src="https://www.svgrepo.com/show/354957/document-zip.svg" /></td>
     <td></td>
     <td><img width="20px" height="20px" alt="image" src="https://icons.iconarchive.com/icons/carlosjj/mozilla/256/Firefox-icon.png" />
