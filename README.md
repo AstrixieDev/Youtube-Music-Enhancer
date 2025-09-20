@@ -1,6 +1,6 @@
 # Youtube Music Enhancer
-<img width="916" height="418" alt="image" src="https://github.com/user-attachments/assets/6bb93420-6638-4f64-982a-7ac83b28b78c" />
-<p>^ Up your'e YT Music Expirience</p>
+<img align="center" width="916" height="418" alt="image" src="https://github.com/user-attachments/assets/6bb93420-6638-4f64-982a-7ac83b28b78c" />
+<p align="center">^ Upgrade you're YouTube Music Expirience</p>
 <p><h4>Downloads</h4></p>
 <table>
   <tr>
