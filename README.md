@@ -33,6 +33,5 @@
 <p><img width="167" height="58" alt="image" src="https://github.com/user-attachments/assets/f8cfdfbf-2ce4-4d81-97c5-429eee3354e0" /></p>
 <p> 4. Select the extencion</p>
 <p><img width="94" height="131" alt="image" src="https://github.com/user-attachments/assets/570752a8-abd5-41e9-a501-37bec78d993a" /></p>
-<p><a>Made by </a><a href="https://github.com/AstrixieDev">Astrixie</a><a> - </a><a href="https://github.com/AstrixieDev/Youtube-Music-Enhancer">YTME</a></p>
-<p><img width="100" height="15" src="https://github.com/user-attachments/assets/9bbd8cf2-b0c3-43a0-a0ea-e6ad99ee98d1" /></p>
-<p align="center">A piece of centered text</p>>A piece of centered text</p>
+<p align="center"><a>Made by </a><a href="https://github.com/AstrixieDev">Astrixie</a><a> - </a><a href="https://github.com/AstrixieDev/Youtube-Music-Enhancer">YTME</a></p>
+<p align="center"><img width="100" height="15" src="https://github.com/user-attachments/assets/9bbd8cf2-b0c3-43a0-a0ea-e6ad99ee98d1" /></p>
